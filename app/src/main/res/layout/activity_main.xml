@@ -38,7 +38,28 @@
         android:layout_height="wrap_content"
         android:text="@string/correo"/>
 
+    <Button
+        android:id="@+id/busqueda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/busqueda" />
 
+    <Button
+        android:id="@+id/dialer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialer"/>
 
+    <Button
+        android:id="@+id/street"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/street"/>
+
+    <Button
+        android:id="@+id/compartir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/compartir"/>
 
 </LinearLayout>

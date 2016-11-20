@@ -5,4 +5,8 @@
     <string name="google">GOOGLE MAPS</string>
     <string name="foto">HACER FOTO</string>
     <string name="correo">MANDAR CORREO</string>
+    <string name="busqueda">BÚSQUEDA WEB</string>
+    <string name="dialer">DIALER DE TELÉFONO</string>
+    <string name="street">STREET VIEW</string>
+    <string name="compartir">COMPARTIR CON ... </string>
 </resources>
