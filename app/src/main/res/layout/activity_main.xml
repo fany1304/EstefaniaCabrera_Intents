@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context="net.example.intents.MainActivity">
+
+    <Button
+        android:id="@+id/abrir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/abrir"/>
+
+    <Button
+        android:id="@+id/llamada"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/llamada"/>
+
+    <Button
+        android:id="@+id/google"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/google"/>
+
+    <Button
+        android:id="@+id/foto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/foto"/>
+
+    <Button
+        android:id="@+id/correo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/correo"/>
+
+
+
+
+</LinearLayout>
